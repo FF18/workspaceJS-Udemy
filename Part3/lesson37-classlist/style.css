@@ -1,0 +1,19 @@
+button {
+	background-color: yellow;
+	width: 50px;
+	height: 20px;
+	border-radius: 5px;
+}
+.btn-block {
+	background-color: lightgrey;
+
+}
+.blue {
+	background-color: blue;
+}
+	
+.some {
+	width: 50px;
+	height: 20px;
+	background-color: blue;
+}
